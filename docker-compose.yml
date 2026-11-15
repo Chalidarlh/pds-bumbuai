@@ -45,6 +45,6 @@ services:
       - ollama
       - opensearch
 
-volumes:git init
+volumes:
   ollama_data:
   opensearch_data:
